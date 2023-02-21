@@ -1,6 +1,6 @@
 Ashir Imran
 
-# CS326 - Git Workflow Overview
+# COMPSCI 326 - Git Workflow Overview
 
 Git is a tool for managing the development of your software. It helps manage versions of code and allows you to rollback, and helps teams collaborate. For an oversimplified comparison, it's like Google Drive for code.
 
