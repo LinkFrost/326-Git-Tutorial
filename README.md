@@ -70,3 +70,7 @@ _Note to students: Watch out for which folder your terminal is open in when runn
 4. Run `git push origin <branch_name>`
 5. Run `git switch main` (or master, depending on your git)
 6. Run `git merge <branch_name>`. If there are no merge conflicts, this should happen smoothly, otherwise you will be alerted to the conflicts and can fix them in VSCode, or create a pull request on GitHub and resolve the issues there.
+
+---
+
+## Scenario 4: Live Video Demonstration
