@@ -1,6 +1,6 @@
 Ashir Imran
 
-# CS326 - Git Workflow Overview
+# COMPSCI 326 - Git Workflow Overview
 
 Git is a tool for managing the development of your software. It helps manage versions of code and allows you to rollback, and helps teams collaborate. For an oversimplified comparison, it's like Google Drive for code.
 
@@ -73,6 +73,13 @@ _Note to students: Watch out for which folder your terminal is open in when runn
 
 ---
 
-## Scenario 4: Live Video Demonstration
+## Important Links and Extras
 
-Working with branches can be fun!
+### Launching VSCode with `code .`
+
+- [MacOS](https://code.visualstudio.com/docs/setup/mac)
+- [Windows](https://code.visualstudio.com/docs/editor/command-line)
+
+### Renaming default git branch to main:
+
+`git config --global init.defaultBranch main`
