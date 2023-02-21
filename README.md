@@ -73,6 +73,13 @@ _Note to students: Watch out for which folder your terminal is open in when runn
 
 ---
 
-## Scenario 4: Live Video Demonstration
+## Important Links and Extras
 
-Working with branches can be fun!
+### Launching VSCode with `code .`
+
+- [MacOS](https://code.visualstudio.com/docs/setup/mac)
+- [Windows](https://code.visualstudio.com/docs/editor/command-line)
+
+### Renaming default git branch to main:
+
+`git config --global init.defaultBranch main`
