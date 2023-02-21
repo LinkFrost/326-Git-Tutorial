@@ -26,6 +26,8 @@ A commit keeps track of who changed what and when they did it. It's very useful 
 
 `git push origin <branch>` - Pushes the changes to a particular branch. By default, `git push` should push to the main/master branch on the remote, but you can specifiy other branches as well.
 
+`git status` - Shows the state of the modified or added files in the repository.
+
 `git pull` - Grabs changes from the remote repo to your local one.
 
 `git branch` - Lists out all the existing branches on the local repo.
@@ -35,6 +37,8 @@ A commit keeps track of who changed what and when they did it. It's very useful 
 `git switch <branch_name>` - Another way to switch branches.
 
 `git merge <branch_name>` - Merges working branch to main/master (do this on **main/master**!). If you can, do this through GitHub so you can view all potential merge conflicts in a clean UI (The VSCode git extension also allows you to do this)
+
+`git log` - Shows a history of commits to the repository.
 
 ---
 
