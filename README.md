@@ -74,3 +74,5 @@ _Note to students: Watch out for which folder your terminal is open in when runn
 ---
 
 ## Scenario 4: Live Video Demonstration
+
+Working with branches can be fun!
